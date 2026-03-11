@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeSubmitPrompt": [
+      { "command": "./hooks/session-start.sh" }
+    ],
+    "stop": [
+      { "command": "./hooks/session-end.sh" }
+    ]
+  }
+}

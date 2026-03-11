@@ -1,0 +1,10 @@
+{
+  "name": "agent-ambient-music",
+  "displayName": "Agent Ambient Music",
+  "description": "Plays ambient music when an agent is processing. Pauses when the agent waits for input. Loops until done.",
+  "version": "1.0.0",
+  "author": { "name": "João Rodrigues" },
+  "repository": "https://github.com/joaomelorodrigues/agent-ambience-music",
+  "keywords": ["ambient", "music", "agent", "focus", "productivity"],
+  "hooks": "./hooks/hooks.json"
+}
