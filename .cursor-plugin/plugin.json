@@ -6,5 +6,6 @@
   "author": { "name": "João Rodrigues" },
   "repository": "https://github.com/joaomelorodrigues/agent-ambience-music",
   "keywords": ["ambient", "music", "agent", "focus", "productivity"],
+  "logo": "assets/logo.svg",
   "hooks": "./hooks/hooks.json"
 }
